@@ -87,22 +87,24 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>CUSTOMER SUCCESS</h3>
+              <h4>Retention & KPI Optimization</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Championing customer loyalty for high-value tech programs by
+                pairing consultative sales with data-backed playbooks. I coach
+                teams on exceeding NPS, AICR, CHT, FRT, and attendance targets{" "}
+                while delivering executive-ready insights.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Salesforce</div>
+                <div className="what-tags">Sales Operations</div>
+                <div className="what-tags">Customer Data Analysis</div>
+                <div className="what-tags">Retention Strategy</div>
+                <div className="what-tags">Training & Mentoring</div>
+                <div className="what-tags">Team Leadership</div>
+                <div className="what-tags">Customer Success</div>
+                <div className="what-tags">KPI Playbooks</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +128,24 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>CLOUD & WEB</h3>
+              <h4>Enablement & Modernization</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Translating cloud fundamentals for students, peers, and
+                customers while prototyping web experiences that reinforce the
+                story. I guide stakeholders through AI benefits, cloud-first
+                migrations, and WordPress/JS site builds.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Cloud Consulting</div>
+                <div className="what-tags">Cloud Architecture</div>
+                <div className="what-tags">WordPress</div>
+                <div className="what-tags">HTML</div>
+                <div className="what-tags">CSS</div>
+                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">AI Advocacy</div>
+                <div className="what-tags">Workshop Design</div>
               </div>
               <div className="what-arrow"></div>
             </div>

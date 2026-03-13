@@ -15,43 +15,60 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Analyst (Sales Agent)</h4>
+                <h5>eClerx Services Limited · Chandigarh IT Park</h5>
               </div>
-              <h3>2020</h3>
+              <h3>Jul 2023 – Apr 2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Drove premium device sales for Apple, Samsung, Motorola, and
+              Google while surpassing six+ mission-critical KPIs (NPS, AICR,
+              CHT, FRT, shift adherence). Recognized as Training Champion and
+              supported WFM/LAT teams with high-urgency coverage and AI/cloud
+              enablement sessions.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Customer Support Specialist</h4>
+                <h5>Teleperformance · Mohali</h5>
               </div>
-              <h3>2021</h3>
+              <h3>Dec 2022 – Jun 2023</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Hit 300+ monthly retention saves for satellite radio services
+              through strategic upsell/cross-sell motions. Built data-driven
+              retention cadences that lifted customer lifetime value and kept
+              conversion rates ahead of target.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Virtual Customer Service Associate</h4>
+                <h5>Amazon · Chandigarh</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Jul 2022 – Dec 2022</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Delivered frictionless e-commerce support, resolved complex order
+              and logistics issues, and collaborated across functions to improve
+              customer experience workflows.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Customer Service Associate</h4>
+                <h5>Conneqt Business Solutions · Mohali</h5>
+              </div>
+              <h3>Mar 2022 – Jul 2022</h3>
+            </div>
+            <p>
+              Provided multi-line customer and technical support, adapting
+              quickly to new systems while maintaining top-tier service quality
+              and preparing for future cloud and web initiatives.
             </p>
           </div>
         </div>

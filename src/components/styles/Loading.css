@@ -320,6 +320,17 @@
   font-size: 60px;
   font-weight: 600;
   text-transform: uppercase;
+  overflow: hidden;
+}
+
+.loading-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: loading-marquee-scroll 20s linear infinite;
+}
+
+.loading-marquee-group {
+  display: flex;
 }
 
 .loading-marquee span {
@@ -337,6 +348,16 @@
   border-radius: 50px;
   left: 0px;
   transform: translate(-50%, -50%);
+}
+
+@keyframes loading-marquee-scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
 }
 
 @keyframes ball25 {

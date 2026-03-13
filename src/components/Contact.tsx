@@ -8,56 +8,51 @@ const Contact = () => {
         <h3>Contact</h3>
         <div className="contact-flex">
           <div className="contact-box">
-            <h4>Email</h4>
+            <h4>Location</h4>
+            <p>Sahibzada Ajit Singh Nagar, Punjab, India</p>
+            <h4>Phone</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="tel:+918679215898" data-cursor="disable">
+                +91-8679215898
               </a>
             </p>
-            <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <h4>Email</h4>
+            <p>
+              <a href="mailto:imdharamdk@gmail.com" data-cursor="disable">
+                imdharamdk@gmail.com
+              </a>
+            </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/raxx21"
+              href="https://www.linkedin.com/in/imdharamdk"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
-              target="_blank"
+              href="mailto:imdharamdk@gmail.com"
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
+              Email <MdArrowOutward />
             </a>
-            <a
-              href="https://x.com/raxx21_official"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/therajeshchityal"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
+            <a href="tel:+918679215898" data-cursor="disable" className="contact-social">
+              Call <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Dharmender Kumar Thakur</span>
             </h2>
+            <p>
+              B.Tech in Computer Science · Punjab Technical University (2018 – 2022)
+            </p>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>

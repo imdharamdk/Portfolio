@@ -1,13 +1,27 @@
-# My Portfolio Wesbite - Overview 🚀
+# Dharmender Kumar Thakur – Portfolio 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Open-source code for Dharmender Kumar Thakur’s immersive personal site. The experience highlights a customer-success focused technologist transitioning deeper into web and cloud development while showcasing interactive GSAP + Three.js visuals.
 
-## Instructions 🛠️
+## Profile Snapshot 🧭
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+- Location: Sahibzada Ajit Singh Nagar, Punjab, India
+- Phone: +91-8679215898
+- Email: imdharamdk@gmail.com
+- LinkedIn: [linkedin.com/in/imdharamdk](https://linkedin.com/in/imdharamdk)
+- Portfolio: [imdksunny.glitch.me](https://imdksunny.glitch.me)
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## Highlights 🛠️
+
+- **Professional Summary:** 2.5+ years driving retention and sales KPIs across eClerx, Teleperformance, Amazon, and Conneqt. Recognized training champion with a passion for educating others on AI and cloud.
+- **Technical Focus:** HTML, CSS, JavaScript, WordPress, cloud consulting/architecture, Salesforce, KPI optimization, customer success strategy.
+- **Experience Sections:** Detailed achievements for analyst, customer support, and virtual service roles plus education and key accolades.
+- **Projects:** Carousel spotlights the personal site, AI enablement sessions, cloud workshops, and KPI tooling experiments.
+
+## Instructions 🧩
+
+GSAP Club-only plugins were swapped with trial builds; they power ScrollSmoother, SplitText, etc. Trial versions cannot be hosted publicly—obtain licensed files via https://gsap.com/docs/v3/Installation/ before deployment.
+
+**Tech stack** – React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript, React Three Fiber, Rapier physics
 
 ![Portfolio-Preview](public/images/preview.png)
 
