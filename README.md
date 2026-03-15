@@ -8,7 +8,7 @@ Open-source code for Dharmender Kumar Thakur’s immersive personal site. The ex
 - Phone: +91-8679215898
 - Email: imdharamdk@gmail.com
 - LinkedIn: [linkedin.com/in/imdharamdk](https://linkedin.com/in/imdharamdk)
-- Portfolio: [imdksunny.glitch.me](https://imdksunny.glitch.me)
+- Portfolio: 
 
 ## Highlights 🛠️
 
