@@ -23,8 +23,6 @@ GSAP Club-only plugins were swapped with trial builds; they power ScrollSmoother
 
 **Tech stack** – React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript, React Three Fiber, Rapier physics
 
-![Portfolio-Preview](public/images/preview.png)
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
